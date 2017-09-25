@@ -1,2 +1,0 @@
-# AI
-Mhacks project  upload
